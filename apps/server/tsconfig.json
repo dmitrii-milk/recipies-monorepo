@@ -1,5 +1,5 @@
 {
-"extends": "tsconfig/nestjs.json",
+"extends": "tsconfig/nestjs",
 "include": ["src"],
 "exclude": ["node_modules"]
 }

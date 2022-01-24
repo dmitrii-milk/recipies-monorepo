@@ -1,10 +1,7 @@
-import { Button } from "ui";
+import React from "react";
 
-export default function Web() {
-  return (
-    <div>
-      <h1>Web</h1>
-      <Button />
-    </div>
-  );
-}
+const HomePage = () => {
+  return <div>Home Page Client</div>;
+};
+
+export default HomePage;

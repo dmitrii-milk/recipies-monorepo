@@ -1,10 +1,7 @@
-import { Button } from "ui";
+import React from "react";
 
-export default function Docs() {
-  return (
-    <div>
-      <h1>Docs</h1>
-      <Button />
-    </div>
-  );
-}
+const HomePage = () => {
+  return <div>Home Page Admin</div>;
+};
+
+export default HomePage;
